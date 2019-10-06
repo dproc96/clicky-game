@@ -2,6 +2,8 @@
 
 This web application can be accessed at https://dproc96.github.io/clicky-game/
 
+![Screenshot](https://imgur.com/20Ig0ih)
+
 ## How To Play
 
 As this is a clicking game, you play by... clicking! To gain a point all you have to do is click a Spongebob character. Remember who you click though, as you may only click each character once or you'll lose. You have 5 seconds for each click.
