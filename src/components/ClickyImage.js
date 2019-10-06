@@ -8,7 +8,7 @@ class ClickyImage extends React.Component {
             objectFit: "cover"
         }
         return (
-            <img style={style} alt={this.props.name} src={this.props.image} />
+            <img draggable={false} style={style} alt={this.props.name} src={this.props.image} />
         )
     }
 }

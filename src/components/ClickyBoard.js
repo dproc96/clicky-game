@@ -8,10 +8,10 @@ class ClickyBoard extends React.Component {
             flexWrap: "wrap",
             maxWidth: "90%",
             width: "888px",
-            margin: "10px auto"
+            margin: "180px auto 10px auto"
         }
         const cards = this.props.cards.map(card => {
-            return <ClickyCard id={card.id} handleClick={this.props.handleClick} image={card.image} name={card.name} />
+            return <ClickyCard wasClicked={card.wasClicked} id={card.id} handleClick={this.props.handleClick} image={card.image} name={card.name} />
         })
         return (
             <div style={style}>
