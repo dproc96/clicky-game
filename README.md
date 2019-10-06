@@ -10,7 +10,7 @@ Every 12 points you gain, all of the characters will reset meaning that you can 
 
 ## Technologies Used
 
-React JS
-JSX
-CSS
-HTML
+* React JS
+* JSX
+* CSS
+* HTML
