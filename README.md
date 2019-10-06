@@ -2,7 +2,7 @@
 
 This web application can be accessed at https://dproc96.github.io/clicky-game/
 
-![Screenshot](https://imgur.com/20Ig0ih)
+![Screenshot](https://i.imgur.com/20Ig0ih.png)
 
 ## How To Play
 
